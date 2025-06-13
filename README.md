@@ -84,6 +84,25 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
   <em>"Code is poetry, data tells stories, and great systems are symphonies of elegant architecture. I believe in writing code that not only works but inspires—building solutions that scale, learn, and empower."</em>
 </details>
 
+## 🧠 Skill Graph
+
+| Skill             | Proficiency |
+|------------------|-------------|
+| 🐍 Python         | ▰▰▰▰▰▰▰▰▰░░░░░░░░░░░░ **70%** |
+| 🤖 Machine Learning | ▰▰▰▰▰▰▰▰░░░░░░░░░░░░ **65%** |
+| 💻 JavaScript     | ▰▰▰▰▰▰▰░░░░░░░░░░░░░░ **60%** |
+| 🌐 Node.js        | ▰▰▰▰▰▰░░░░░░░░░░░░░░░ **55%** |
+| 🗃️ SQL            | ▰▰▰▰▰▰▰▰░░░░░░░░░░░░ **65%** |
+| 🚀 C++            | ▰▰▰▰▰░░░░░░░░░░░░░░░░ **50%** |
+| 🧠 TensorFlow     | ▰▰▰▰▰▰░░░░░░░░░░░░░░ **55%** |
+| 🔥 PyTorch        | ▰▰▰▰▰▰▰░░░░░░░░░░░░░ **60%** |
+| ☁️ AWS            | ▰▰▰▰░░░░░░░░░░░░░░░░ **40%** |
+
+---
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
+---
+
