@@ -26,7 +26,7 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,aws,docker,kubernetes,tensorflow,pytorch,mysql,postgres,sqlite,git,github,linux,terraform,anaconda,spark,pandas,numpy,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,aws,tensorflow,pytorch,mysql,postgres,sqlite,git,github,linux,terraform,anaconda,spark,pandas,numpy,matplotlib" />
 </p>
 
 ---
@@ -40,19 +40,6 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep183&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep183&theme=radical&hide_border=true" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep183&theme=radical&hide_border=true&layout=compact" height="140" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajdeep183&theme=react-dark&hide_border=true" height="140" />
-</p>
-
----
-
 ## 🏆 Highlights
 
 - **📈 Scalable ML Systems:** Deployed ML models serving 100K+ predictions/day  
@@ -63,14 +50,31 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
 
 ---
 
-## 📊 Coding Activity
+## 📈 GitHub Analytics
 
-<!--START_SECTION:waka-->
-text  
-Python       8 hrs 42 mins   ████████████░░░░░░░░░░░░░    
-JavaScript   3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░    
-SQL          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   
-<!--END_SECTION:waka-->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep183&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="160" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep183&theme=radical&hide_border=true" height="160" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep183&theme=radical&hide_border=true&layout=compact" height="130" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajdeep183&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
