@@ -19,6 +19,8 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI app
   <a href="https://rajdeeproy21.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Rajdeep183&label=Profile%20views&color=blue&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
@@ -33,10 +35,10 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI app
 
 ## 🚀 What I'm Building
 
-- **🤖 AI-Powered Applications:** End-to-end ML pipelines with real-time inference  
-- **☁️ Cloud-Native Solutions:** Scalable microservices on AWS with auto-scaling  
-- **📊 Data Analytics Platforms:** ETL pipelines processing millions of records  
-- **🔧 MLOps Infrastructure:** Automated model training, validation, and deployment  
+- **🤖 AI-Powered Applications:** End-to-end ML pipelines with real-time inference (e.g., `[Project Showcase](your-repo-link-here)`)
+- **☁️ Cloud-Native Solutions:** Scalable microservices on AWS with auto-scaling (e.g., `[Cloud Architecture Example](your-repo-link-here)`)
+- **📊 Data Analytics Platforms:** ETL pipelines processing millions of records (e.g., `[Data Platform Overview](your-repo-link-here)`)
+- **🔧 MLOps Infrastructure:** Automated model training, validation, and deployment (e.g., `[MLOps Pipeline](your-repo-link-here)`)
 
 ---
 
@@ -73,4 +75,4 @@ YAML         1 hr 22 mins    ██░░░░░░░░░░░░░░░
 Dockerfile   58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41%
 <!--END_SECTION:waka-->
 <details> <summary>💬 Professional Philosophy</summary> <br> "Code is poetry, data tells stories, and great systems are symphonies of elegant architecture. I believe in writing code that not only works but inspires—building solutions that scale, learn, and empower." </details>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </p> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </p>
