@@ -29,7 +29,7 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,aws,tensorflow,pytorch,mysql,postgres,sqlite,git,github,linux,terraform,anaconda,spark,pandas,numpy,matplotlib" />
 </p>
 
----
+
 
 ## 🚀 Projects I'm Building
 
