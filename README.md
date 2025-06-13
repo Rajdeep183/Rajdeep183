@@ -67,11 +67,9 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
 
 <!--START_SECTION:waka-->
 text  
-Python       8 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.32%  
-JavaScript   3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.07%  
-SQL          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   15.28%  
-YAML         1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64%  
-Dockerfile   58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41%  
+Python       8 hrs 42 mins   ████████████░░░░░░░░░░░░░    
+JavaScript   3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░    
+SQL          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   
 <!--END_SECTION:waka-->
 
 ---
