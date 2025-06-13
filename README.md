@@ -104,5 +104,4 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
----
 
