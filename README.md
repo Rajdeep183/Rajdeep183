@@ -30,12 +30,6 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
 </p>
 
 
-
-## 🚀 Projects I'm Building
-
-**SOMETHING'S COOKING
----
-
 ## 🏆 Highlights
   
 - **⚡ Fast Inference:** Reduced latency by 70% using model optimization  
