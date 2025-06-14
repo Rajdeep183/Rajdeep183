@@ -33,7 +33,7 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
 
 ## 🚀 Projects I'm Building
 
-SOMETHING'S COOKING
+**SOMETHING'S COOKING
 ---
 
 ## 🏆 Highlights
