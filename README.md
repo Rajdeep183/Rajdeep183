@@ -33,16 +33,11 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
 
 ## 🚀 Projects I'm Building
 
-- **🤖 AI-Powered Apps:** End-to-end ML pipelines with real-time inference ([Showcase](your-repo-link-here))
-- **☁️ Scalable Backends:** Microservices on AWS with auto-scaling ([Cloud Architecture](your-repo-link-here))
-- **📊 Data Platforms:** ETL pipelines processing millions of records ([Data Engineering](your-repo-link-here))
-- **🔧 MLOps Tooling:** CI/CD for model training and deployment ([MLOps Infra](your-repo-link-here))
-
+SOMETHING'S COOKING
 ---
 
 ## 🏆 Highlights
-
-- **📈 Scalable ML Systems:** Deployed ML models serving 100K+ predictions/day  
+  
 - **⚡ Fast Inference:** Reduced latency by 70% using model optimization  
 - **🏗️ Resilient Architecture:** Designed distributed systems with 99.9% uptime  
 - **🤖 Open Source Contributor:** Active in ML, MLOps, and data engineering projects  
