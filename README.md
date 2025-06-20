@@ -57,13 +57,6 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
   </tr>
 </table>
 
----
-
-## 📊 Activity Overview
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajdeep183&theme=react-dark&hide_border=true&area=true" />
-</p>
 
 ---
 
