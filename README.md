@@ -1,6 +1,8 @@
 <div align="center">
 
-# 💫 Rajdeep Roy
+<!-- Animated typing SVG for your name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FF5722&center=true&vCenter=true&width=435&lines=Rajdeep+Roy" alt="Typing SVG" />
+
 
 ### Full-Stack Developer & ML Engineer
 
