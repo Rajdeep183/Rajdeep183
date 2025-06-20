@@ -58,13 +58,19 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep183&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep183&theme=radical&hide_border=true" height="180" />
+
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajdeep183&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="Rajdeep's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajdeep183&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep183&theme=radical&hide_border=true&layout=compact" height="150" alt="Top Languages"/>
+  
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajdeep183&theme=radical&hide_border=true" height="200" alt="GitHub Contribution Graph"/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajdeep183&theme=radical&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdeep183&theme=radical&hide_border=true&layout=compact" height="150" />
-</div>
 
 ---
 
