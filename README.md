@@ -50,76 +50,15 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
 
 ## 🧠 Skill Proficiency
 
-<div align="center">
+## 🚀 Skills & Proficiency
 
-<table>
-  <tr>
-    <td>🐍 Python</td>
-    <td>
-      <img src="https://progress-bar.dev/70/?title=&width=300&color=FF5722" alt="70%"/>
-      <b>70%</b>
-    </td>
-  </tr>
-  <tr>
-    <td>🤖 Machine Learning</td>
-    <td>
-      <img src="https://progress-bar.dev/65/?title=&width=300&color=FF9800" alt="65%"/>
-      <b>65%</b>
-    </td>
-  </tr>
-  <tr>
-    <td>🗃️ SQL</td>
-    <td>
-      <img src="https://progress-bar.dev/65/?title=&width=300&color=2196F3" alt="65%"/>
-      <b>65%</b>
-    </td>
-  </tr>
-  <tr>
-    <td>💻 JavaScript</td>
-    <td>
-      <img src="https://progress-bar.dev/60/?title=&width=300&color=FFC107" alt="60%"/>
-      <b>60%</b>
-    </td>
-  </tr>
-  <tr>
-    <td>🔥 PyTorch</td>
-    <td>
-      <img src="https://progress-bar.dev/60/?title=&width=300&color=FF7043" alt="60%"/>
-      <b>60%</b>
-    </td>
-  </tr>
-  <tr>
-    <td>🌐 Node.js</td>
-    <td>
-      <img src="https://progress-bar.dev/55/?title=&width=300&color=4CAF50" alt="55%"/>
-      <b>55%</b>
-    </td>
-  </tr>
-  <tr>
-    <td>🧠 TensorFlow</td>
-    <td>
-      <img src="https://progress-bar.dev/55/?title=&width=300&color=FFB300" alt="55%"/>
-      <b>55%</b>
-    </td>
-  </tr>
-  <tr>
-    <td>🚀 C++</td>
-    <td>
-      <img src="https://progress-bar.dev/50/?title=&width=300&color=0288D1" alt="50%"/>
-      <b>50%</b>
-    </td>
-  </tr>
-  <tr>
-    <td>☁️ AWS</td>
-    <td>
-      <img src="https://progress-bar.dev/40/?title=&width=300&color=607D8B" alt="40%"/>
-      <b>40%</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
+| Skill         | Proficiency         |
+|---------------|--------------------|
+| Python        | ![90%](https://progress-bar.dev/90) |
+| JavaScript    | ![80%](https://progress-bar.dev/80) |
+| C++           | ![70%](https://progress-bar.dev/70) |
+| HTML/CSS      | ![80%](https://progress-bar.dev/80) |
+| SQL           | ![60%](https://progress-bar.dev/60) |
 ---
 
 ## 📈 GitHub Analytics
