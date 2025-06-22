@@ -52,13 +52,12 @@ Currently focused on **MLOps**, **distributed systems**, and **generative AI**. 
 
 ## 🚀 Skills & Proficiency
 
-| Skill         | Proficiency         |
-|---------------|--------------------|
-| Python        | ![90%](https://progress-bar.dev/90) |
-| JavaScript    | ![80%](https://progress-bar.dev/80) |
-| C++           | ![70%](https://progress-bar.dev/70) |
-| HTML/CSS      | ![80%](https://progress-bar.dev/80) |
-| SQL           | ![60%](https://progress-bar.dev/60) |
+
+![Python](https://img.shields.io/badge/Python-Expert-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
+![C++](https://img.shields.io/badge/C++-Intermediate-blue)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Advanced-orange)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey)
 ---
 
 ## 📈 GitHub Analytics
